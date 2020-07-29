@@ -6,6 +6,7 @@
 ## 2. Third Party API
 * https://type.fit/api/quotes
 * https://official-joke-api.appspot.com/random_ten 
+* moby/oxford api
 
 ## 3. Wireframe
 ![](/mod2-wireframe.png)
